@@ -1,0 +1,24 @@
+Uri: https://deletelife.ru/jB1tE9B6gg
+File Name: C:\Downloaded Web Sites\deletelife.ru\jB1tE9B6gg-1.html
+Content Type: text/html
+
+Uri: https://deletelife.ru/static/audio.mp3
+File Name: C:\Downloaded Web Sites\deletelife.ru\static\audio-1.mp3
+Content Type: audio/mpeg
+
+Uri: https://deletelife.ru/static/dist.css
+File Name: C:\Downloaded Web Sites\deletelife.ru\static\dist-1.css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Roboto|Open+Sans&display=swap
+File Name: C:\Downloaded Web Sites\deletelife.ru\css-1
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/opensans/v40/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4gaVc.ttf
+File Name: C:\Downloaded Web Sites\deletelife.ru\s\opensans\v40\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4gaVc-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbVmUiA8.ttf
+File Name: C:\Downloaded Web Sites\deletelife.ru\s\roboto\v47\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbVmUiA8-1.ttf
+Content Type: font/ttf
+
